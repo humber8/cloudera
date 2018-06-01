@@ -1,2 +1,2 @@
-# cloudera
-Codigo y laboratorios en Cloudera
+# Machine Learning
+Codigo y laboratorios de la Clase Aprendizaje automático.
